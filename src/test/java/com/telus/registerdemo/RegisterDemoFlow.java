@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+// Code added by Vinoth R - 17th Oct 2023
 public class RegisterDemoFlow {
 	
 	public WebDriver driver;	
