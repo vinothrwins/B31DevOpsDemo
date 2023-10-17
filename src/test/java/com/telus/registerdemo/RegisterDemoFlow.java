@@ -12,6 +12,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 // Code added by Vinoth R - 17th Oct 2023
+// Updated the code 
 public class RegisterDemoFlow {
 	
 	public WebDriver driver;	
